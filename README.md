@@ -1,4 +1,4 @@
-# ICT513P-Spotify-Music-Track-Popularity-Analysis-R-
+# ICT513P Spotify Music Track Popularity Analysis R
 
 Spotify is the largest music streaming platform
 Analyse the spotify dataset for song popularity for trends and insgiths 
