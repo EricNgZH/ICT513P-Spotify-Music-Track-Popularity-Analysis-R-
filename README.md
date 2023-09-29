@@ -1,6 +1,6 @@
 # ICT513P Spotify Music Track Popularity Analysis (R)
 
-Understanding the elements that affect song rankings is crucial for both music platforms and artists in the fast-paced world of music streaming. As Spotify is the largest music streaming platform, the data will be extracted from Spotify API. Subsequently, advanced data analytics approaches will be applied to reveal underlying trends and insights.
+Understanding the elements that affect song rankings is crucial for both music platforms and artists in the fast-paced world of music streaming. As Spotify is the largest music streaming platform, the data utilised will be from the Spotify API that was sourced from Kaggle. Subsequently, advanced data analytics approaches will be applied to reveal underlying trends and insights.
 
 The research will consist of the following: 
 - Conduct in-depth Exploratory Data Analysis (EDA) using graphs and statistics.
